@@ -24,7 +24,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 - Cursando *Técnico em Informática* pelo IFFar – Campus Frederico Westphalen.
 - Foco em desenvolvimento *back-end*, APIs e infraestrutura.
-- Buscando oportunidade de estágio ou posição júnior em tecnologia.
+- Buscando oportunidade de estágio ou posição júnior em TI
 
 ## Minhas habilidades
 
@@ -112,10 +112,10 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 <div align="center">
   <img height="165"
-       src="https://github-stats-extended.vercel.app/api?username=emanueca&show_icons=true&theme=radical&include_all_commits=true&border_radius=12"
-       alt="GitHub Stats de emanueca"/>
+       src="https://github-stats-extended.vercel.app/api?username=emanuelz-martins&show_icons=true&theme=radical&include_all_commits=true&border_radius=12"
+       alt="GitHub Stats de Emanuel"/>
   <img height="165"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanueca&layout=compact&langs_count=8&theme=radical&border_radius=12"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanuelz-martins&layout=compact&langs_count=8&theme=radical&border_radius=12"
        alt="Linguagens mais usadas por emanueca"/>
 </div>
 
