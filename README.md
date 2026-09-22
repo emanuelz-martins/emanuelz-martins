@@ -4,19 +4,19 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 <p align="left">
   <a href="https://www.linkedin.com/in/emanuel-ziegler-martins-053847340/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/emanuel_zzie" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://steamcommunity.com/id/emanueca" target="_blank">
-    <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=Steam&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam"/>
   </a>
-  <a href="https://github.com/emanueca" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/emanuelz-martins" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:emanuelziegler3@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -24,12 +24,12 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 
 - Cursando *Técnico em Informática* pelo IFFar – Campus Frederico Westphalen.
 - Foco em desenvolvimento *back-end*, APIs e infraestrutura.
-- Buscando oportunidade de estágio ou posição júnior em TI
+- Buscando oportunidade de estágio ou posição júnior em tecnologia.
 
-## Minhas habilidades
+## Skills
 
 <details>
-  <summary><strong>Linguagens de Programação</strong></summary>
+  <summary><strong>Programming Languages</strong></summary>
   <br/>
   <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -57,7 +57,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 </details>
 
 <details>
-  <summary><strong>Frameworks e Bibliotecas</strong></summary>
+  <summary><strong>Frameworks & Libraries</strong></summary>
   <br/>
   <p align="left">
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -76,7 +76,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 </details>
 
 <details>
-  <summary><strong>Bancos de Dados</strong></summary>
+  <summary><strong>Databases</strong></summary>
   <br/>
   <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 </details>
 
 <details>
-  <summary><strong>Ferramentas e Ambiente</strong></summary>
+  <summary><strong>Tools & Environment</strong></summary>
   <br/>
   <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -113,10 +113,10 @@ Entusiasta da tecnologia, atualmente cursando <strong>Técnico em Informática</
 <div align="center">
   <img height="165"
        src="https://github-stats-extended.vercel.app/api?username=emanuelz-martins&show_icons=true&theme=radical&include_all_commits=true&border_radius=12"
-       alt="GitHub Stats de Emanuel"/>
+       alt="GitHub Stats of emanuelz-martins"/>
   <img height="165"
        src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanuelz-martins&layout=compact&langs_count=8&theme=radical&border_radius=12"
-       alt="Linguagens mais usadas por emanueca"/>
+       alt="Top languages used by emanuelz-martins"/>
 </div>
 
 <a href="./assets/emanuelbck.gif" target="_blank" title="Open larger">
